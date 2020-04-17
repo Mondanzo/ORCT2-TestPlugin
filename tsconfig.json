@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "lib": ["es5"],
+        "outFile": "./out/YourPlugin.js",
+        "target": "ES5",
+        "removeComments": true
+    },
+    "files": ["src/YourPlugin.ts"]
+}
